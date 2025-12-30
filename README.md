@@ -1,6 +1,6 @@
 # Buff Bar Zoom
 
-A lightweight utility to mirror and magnify specific regions of your screen. Perfect for tracking small buff icons or cooldowns in games like Bee Swarm Simulator.
+A lightweight utility to mirror and magnify specific regions of your screen. Perfect for tracking small buff icons or cooldowns in games [Bee Swarm Simulator].
 
 [![Download](https://img.shields.io/badge/Download-Stable_Release-blue?style=for-the-badge&logo=windows)](https://github.com/spctrl1/Buff-Bar-Zoom/releases/tag/v1.3)
 
