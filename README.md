@@ -17,8 +17,7 @@ Because this app is a custom open-source tool and not digitally signed by a corp
 
 ---
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1c1b8d14-95df-4458-81a3-cec2ad99dc7e" />
-
+<img width="600" height="505" alt="image" src="https://github.com/user-attachments/assets/a27ca29a-eabd-4e88-a430-db9530ad33fb" />
 
 ## How to Use
 
