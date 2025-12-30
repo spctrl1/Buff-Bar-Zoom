@@ -17,6 +17,9 @@ Because this app is a custom open-source tool and not digitally signed by a corp
 
 ---
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1c1b8d14-95df-4458-81a3-cec2ad99dc7e" />
+
+
 ## How to Use
 
 ### Controls
